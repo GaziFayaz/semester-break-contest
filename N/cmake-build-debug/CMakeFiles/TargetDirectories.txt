@@ -1,0 +1,3 @@
+D:/Codes/c++/semester break contest/N/cmake-build-debug/CMakeFiles/N.dir
+D:/Codes/c++/semester break contest/N/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/c++/semester break contest/N/cmake-build-debug/CMakeFiles/rebuild_cache.dir
